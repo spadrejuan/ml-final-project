@@ -1,4 +1,8 @@
 This is a Modified Pre-Trained Model of a __ Architecture CNN
+# Prerequisites
+```
+pip install opencv-python
+```
 # Datasets
 ## Since the files are too large for Git, access the links below to download the datasets for this project:
 
