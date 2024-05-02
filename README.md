@@ -20,3 +20,4 @@ https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-
 ```
 https://www.kaggle.com/datasets/osmankagankurnaz/dataset-of-ai-generated-fruits-and-real-fruits
 ```
+4. 
