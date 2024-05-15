@@ -18,6 +18,7 @@ https://www.kaggle.com/datasets/cashbowman/ai-generated-images-vs-real-images?fb
 ```
 
 ## For Google Colab use:
+- upload the dataset folder in your Google Drive
 - uncomment this 
 ![image](https://github.com/spadrejuan/ml-final-project/assets/96292589/35197973-d59f-4cc5-b243-1bbd56bec2b1)
 - and switch this 
