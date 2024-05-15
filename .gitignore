@@ -1,11 +1,10 @@
-# Folder for the dataset
-datasets/
-
 # Sample Codes
 test_codes/
 
 # IDE/OS Specific
 # General
+dataset/AI Art vs Real Art/AI Art/.DS_Store
+dataset/AI Art vs Real Art/Real Art/.DS_Store
 .DS_Store
 .AppleDouble
 .LSOverride
