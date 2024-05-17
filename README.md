@@ -43,3 +43,8 @@ pip install opencv-python
 3. Then change to the GPU available.
    ![image](https://github.com/spadrejuan/ml-final-project/assets/96292589/909f3608-54a3-4ea9-93a8-afe762b42ed7)
 4. Click 'Save'
+
+### To access the Notebooks of each model in Google Colab: Just click on one of the links below
+
+1. InceptionV3
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spadrejuan/ml-final-project/blob/Shaun-Branch/Shaun-InceptionV3.ipynb)
