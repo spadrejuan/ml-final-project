@@ -27,8 +27,11 @@ pip install opencv-python
 
 - Upload the dataset folder in your Google Drive
 - Uncomment this
+  
   ![image](https://github.com/spadrejuan/ml-final-project/assets/96292589/35197973-d59f-4cc5-b243-1bbd56bec2b1)
+
 - and switch this
+  
   ![image](https://github.com/spadrejuan/ml-final-project/assets/96292589/11bf9c93-cbf9-4232-88f6-32ca7d6e027f)
 
 ### The first picture will upload your Google Drive then the second will open the dataset located inside your Google Drive. Kindly use the same path for simplicity sake. Thanks
